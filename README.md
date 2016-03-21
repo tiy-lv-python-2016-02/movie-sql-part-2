@@ -41,7 +41,7 @@ UPDATE 5 different movies to their correct rating
 
 ## Hard Mode
 * Create a new field on the movies table for the year.  Using an update query and a substring method update that column for every movie with the year found in the title column.
-HINT: The pattern needed is '\d{4}' and depending on how your 0xDBE was set up you may need to use the psql command line to get the query to work.
+HINT: The pattern needed is '\d{4}' and depending on how your Datagrip was set up you may need to use the psql command line to get the query to work.
 
 * Now that we know we can add actors create a join table between actors and movies.  This table should not only have the foreign keys for each of the tables, include an extra field for the character name for the actor.  Use the current actor table to populate the join table with data including the character’s name
 
