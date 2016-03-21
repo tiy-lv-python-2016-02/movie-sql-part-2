@@ -10,8 +10,6 @@ The goal for this assignment is to understand aggregations as well as database m
 
 After completing this assignment, you should understand:
 
-* Aggregations
-* Filtering by Aggregations
 * Table Creation
 * ALTER Tables
 * Updates
@@ -29,19 +27,6 @@ After completing this assignment, you should understand:
 * Need to work on provided database
 
 ## Normal Mode
-
-Complete the following aggregation objectives:
-
-* Get the average rating for a movie
-* Get the total ratings for a movie
-* Get the total movies for a genre
-* Get the average rating for a user
-
-* Find the user with the most ratings
-* Find the user with the highest average rating
-* Find the user with the highest average rating with more than 50 reviews
-* Find the movies with an average rating over 4
-* For each genre find the total number of reviews as well as the average review sort by highest average review.
 
 Complete the following modification objectives:
 
